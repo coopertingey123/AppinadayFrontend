@@ -27,6 +27,7 @@ body {
     font-size: 25px;
     border-radius: 10px;
     box-shadow: 0px 0px 9px 3px rgba(0,0,0,0.79);
+    cursor: pointer;
 }
 .heading-wrapper {
     margin-top: 15px;
